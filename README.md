@@ -1,6 +1,3 @@
-
-## About Me
-
 ### Hi there! 👋
 I'm Ruben Gabrielyan , a passionate front-end engineer with a love for crafting beautiful and user-friendly web experiences.
 
@@ -12,4 +9,4 @@ I specialize in front-end technologies, bringing designs to life with HTML, CSS,
 
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, suggestions, or just want to chat about front-end development, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/gabrielianruben/) and [Telegram](https://t.me/gabrielianruben).
 
-Happy coding! 🚀****
+Happy coding! 🚀🚀
